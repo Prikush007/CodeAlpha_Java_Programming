@@ -1,0 +1,10 @@
+========== STUDENT REPORT ==========
+
+preeti : 98 Grade : A Result : PASS
+saloni : 88 Grade : B Result : PASS
+sachin : 65 Grade : C Result : PASS
+
+Average Marks : 83.66666666666667
+Highest Marks : 98
+Lowest Marks : 65
+Topper : preeti
