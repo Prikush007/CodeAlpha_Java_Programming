@@ -1,0 +1,18 @@
+You : what is java
+You : bye
+You : what is java
+Bot : Java is an object-oriented programming language.
+
+You : bye
+Bot : Goodbye! Have a nice day.
+
+You : how are you
+Bot : I am doing great, preeti!
+
+You : who are  you
+Bot : Sorry preeti, I don't understand that.
+Type 'help' to see the list of available commands.
+
+You : how are you
+Bot : I am doing great, preeti!
+

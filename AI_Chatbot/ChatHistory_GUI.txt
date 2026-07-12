@@ -1,0 +1,60 @@
+You : good morning
+Bot : Good Morning! Have a wonderful day.
+
+You : hello
+Bot : Hello! How can I help you?
+
+You : who are you
+Bot : I am an AI ChatBot created using Java for the CodeAlpha Internship.
+
+You : who created you
+Bot : Sorry, I don't understand your question.
+Type 'help' to see all available commands.
+
+You : help
+Bot : Available Commands:
+
+hello
+hi
+how are you
+what is java
+what is ai
+date
+time
+weather
+motivate me
+tell me a joke
+good morning
+good night
+who made you
+who are you
+your name
+thank you
+bye
+
+You : hello
+Bot : Hello! How can I help you?
+
+You : who are you
+Bot : I am an AI ChatBot created using Java for the CodeAlpha Internship.
+
+You : who made yoh
+Bot : Sorry, I don't understand your question.
+Type 'help' to see all available commands.
+
+You : hello
+Bot : Hello! How can I help you?
+
+You : who are youu
+Bot : Sorry, I don't understand your question.
+Type 'help' to see all available commands.
+
+You : hello
+Bot : Hello! How can I help you?
+
+You : how are you
+Bot : I am doing great!
+
+You : who made you
+Bot : I was developed by Preeti Kushwaha using Java.
+
